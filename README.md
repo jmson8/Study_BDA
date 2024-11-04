@@ -11,3 +11,5 @@
 - Titanic Dataset Feature Selection (Variance Threshold)
 - Campaign Dataset Feature Selection (Chi-Sqaure)
 
+3. **241103 Feature Selection (3)**
+- Portugese Student Dataset Feature Selection (RFECV, SFS)
