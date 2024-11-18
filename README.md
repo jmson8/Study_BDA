@@ -13,3 +13,9 @@
 
 3. **241103 Feature Selection (3)**
 - Portugese Student Dataset Feature Selection (RFECV, SFS)
+
+4. **241110 Feature Selection (4)**
+- None
+
+5. **241117 Feature Selection (5)**
+- Titanic Dataset Feature Selection (SHAP)
