@@ -19,3 +19,9 @@
 
 5. **241117 Feature Selection (5)**
 - Titanic Dataset Feature Selection (SHAP)
+
+6. **241124 Feature Selection (6)**
+- None
+
+7. **241229 Feature Selection (7)**
+- Movie Review Dataset Text Importance (LIME)
