@@ -4,24 +4,33 @@
 <br/>24.09 ~ 25.02
 
 # Assignment
-1. **240922 Feature Selection (1)**
+1. **240915 OT**
+- None
+
+2. **240922 Feature Selection (1)**
 - California Housing Dataset Feature Selection (Linear Regression)
 
-2. **240929 Feature Selection (2)**
+3. **240929 Feature Selection (2)**
 - Titanic Dataset Feature Selection (Variance Threshold)
 - Campaign Dataset Feature Selection (Chi-Sqaure)
 
-3. **241103 Feature Selection (3)**
+4. **241103 Feature Selection (3)**
 - Portugese Student Dataset Feature Selection (RFECV, SFS)
 
-4. **241110 Feature Selection (4)**
+5. **241110 Feature Selection (4)**
 - None
 
-5. **241117 Feature Selection (5)**
+6. **241117 Feature Selection (5)**
 - Titanic Dataset Feature Selection (SHAP)
 
-6. **241124 Feature Selection (6)**
+7. **241124 Feature Selection (6)**
 - None
 
-7. **241229 Feature Selection (7)**
+8. **241229 Feature Selection (7)**
 - Movie Review Dataset Text Importance (LIME)
+
+9. **250105 Classification Enhancement (1)**
+- None
+
+10. **250112 Classification Enhancement (2)**
+- Hotel Booking Cancellation Prediction 
