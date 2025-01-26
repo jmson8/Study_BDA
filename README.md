@@ -13,7 +13,7 @@
 |5|241110|Feature Selection (4)||
 |6|241117|Feature Selection (5)|Titanic Dataset Feature Selection (SHAP)|
 |7|241124|Feature Selection (6)||
-|8|241229|Feature Selection (7)||
+|8|241229|Feature Selection (7)|Movie Review Dataset Text Importance (LIME)|
 |9|250105|Classification (1)||
 |10|250112|Classification (2)|Hotel Booking Cancellation Prediction |
 |11|250119|Regression (1)|California Housing Dataset Regression R2 Improvement|
