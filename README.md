@@ -17,8 +17,8 @@
 |9|250105|Classification (1)||
 |10|250112|Classification (2)|Hotel Booking Cancellation Prediction |
 |11|250119|Regression (1)|California Housing Dataset Regression R2 Improvement|
-|12|250126|||
-|13|250202|||
+|12|250126|Word Embedding||
+|13|250202|Natural Langauge Processing (1)||
 |14|250209|||
 |15|250216|||
 |16|250223|||
