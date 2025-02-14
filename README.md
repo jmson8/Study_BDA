@@ -19,6 +19,6 @@
 |11|250119|Regression (1)|California Housing Dataset Regression R2 Improvement|
 |12|250126|Word Embedding||
 |13|250202|Natural Langauge Processing (1)||
-|14|250209|||
+|14|250209|Natural Langauge Processing (2)|Movie Review Word2Vec Accuracy Improvement|
 |15|250216|||
 |16|250223|||
