@@ -1,9 +1,11 @@
 # BDA Study
 ![name](https://blogpfthumb-phinf.pstatic.net/MjAyMzEyMTlfMjc3/MDAxNzAyOTE3NTY0Njk3.dJPpKmu3EyUhezp7q_lvhysN2Dk4gBMWiGwjKJcKVrgg.JYNYKVbb5qcgnl7S0KCbIHWmzl2u-C22xIac_h6zl3Qg.JPEG.uniqueuk/BDA_%EB%A1%9C%EA%B3%A0_jpg%ED%8C%8C%EC%9D%BC2_%284%29.jpg/BDA%2B%25EB%25A1%259C%25EA%25B3%25A0%2Bjpg%25ED%258C%258C%25EC%259D%25BC2%2B%25284%2529.jpg?type=w161)
-<br/>**Big Data Analysis - Feature Engineering (9th)**
-<br/>24.09 ~ 25.02
+<br/>**(8th) SQL Basics** | 24.02 ~ 24.08
+<br/>**(9th) Feature Engineering** | 24.09 ~ 25.02
+<br/>**(10th) Customer KPI Analysis** | 25.03 ~ 25.08
 
 # Assignment
+## [24-2] Feature Engineering
 |**No**|**Date**|**Class**|**Assignment**|
 |---|------|----|---|
 |1|240915|OT||
@@ -15,10 +17,25 @@
 |7|241124|Feature Selection (6)||
 |8|241229|Feature Selection (7)|Movie Review Dataset Text Importance (LIME)|
 |9|250105|Classification (1)||
-|10|250112|Classification (2)|Hotel Booking Cancellation Prediction |
-|11|250119|Regression (1)|California Housing Dataset Regression R2 Improvement|
+|10|250112|Classification (2)|Hotel Booking Cancellation Prediction|
+|11|250119|Regression (1)|California Housing Dataset R2 Improvement (Regression)|
 |12|250126|Word Embedding||
 |13|250202|Natural Langauge Processing (1)||
-|14|250209|Natural Langauge Processing (2)|Movie Review Word2Vec Accuracy Improvement|
-|15|250216|||
-|16|250223|||
+|14|250209|Natural Langauge Processing (2)|Movie Review Dataset Accuracy Improvement (Word2Vec)|
+|15|250216|Natural Langauge Processing (3)|Keras Embedding Improvement|
+|16|250223|Natural Langauge Processing (4)||
+|+||(Addition)|Class Completion Rate Improvement Idea|
+
+## [25-1] Customer KPI Analysis
+|**No**|**Date**|**Class**|**Assignment**|
+|---|------|----|---|
+|1||||
+|2||||
+|3||||
+|4||||
+|5||||
+|6||||
+|7||||
+|8||||
+|9||||
+|10||||
