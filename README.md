@@ -24,15 +24,15 @@
 |14|250209|Natural Langauge Processing (2)|Movie Review Dataset Accuracy Improvement (Word2Vec)|
 |15|250216|Natural Langauge Processing (3)|Keras Embedding Improvement|
 |16|250223|Natural Langauge Processing (4)||
-|+||(Addition)|Class Completion Rate Improvement Idea|
+|+||(Addition)|Class Completion Rate Improvement Strategy Suggestion|
 
 ## [25-1] Customer KPI Analysis
 |**No**|**Date**|**Class**|**Assignment**|
 |---|------|----|---|
 |1|250306|OT||
-|2||||
-|3||||
-|4||||
+|2|250313|Metric Development (1)|Transaction Dataset Data Mart Validation (1) </br> Transaction Dataset Customer Segmentation|
+|3|250320|Metric Development (2)|Transaction Dataset Data Mart Validation (2)|
+|4|250327|Metric Development (3)||
 |5||||
 |6||||
 |7||||
