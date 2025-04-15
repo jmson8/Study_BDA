@@ -30,8 +30,8 @@
 |**No**|**Date**|**Class**|**Assignment**|
 |---|------|----|---|
 |1|250306|OT||
-|2|250313|Metric Development (1)|Transaction Dataset Data Mart Validation (1) </br> Transaction Dataset Customer Segmentation|
-|3|250320|Metric Development (2)|Transaction Dataset Data Mart Validation (2)|
+|2|250313|Metric Development (1)|Classicmodels Dataset Data Mart Validation (Order) </br> Classicmodels Dataset Customer Segmentation|
+|3|250320|Metric Development (2)|Classicmodels Dataset Data Mart Validation (Product)|
 |4|250327|Metric Development (3)||
 |5||||
 |6||||
