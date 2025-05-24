@@ -35,7 +35,7 @@
 |4|250327|Metric Development (3)||
 |5|250501|Metric Development (4)|GA4 Dataset Budget Efficiency Analysis|
 |6|250508|Customer Analysis (1)||
-|7||||
-|8||||
+|7|250515|Customer Analysis (2)|E-Commerce Dataset RFM Analysis|
+|8|250522|Customer Analysis (3)|E-Commerce Dataset LTV Analysis|
 |9||||
 |10||||
