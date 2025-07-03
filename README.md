@@ -38,4 +38,5 @@
 |7|250515|Customer Analysis (2)|E-Commerce Dataset RFM Analysis|
 |8|250522|Customer Analysis (3)|E-Commerce Dataset LTV Analysis|
 |9|250626|A/B Test||
-|10||||
+|10|250703|Class Summary||
+|+||(Addition)|Report Assignment|
